@@ -1,0 +1,31 @@
+@import '../../variables';
+
+header {
+    background-color: $yellow;
+
+    nav {
+        justify-self: right;
+
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+
+            li {
+                float: left;
+
+                a {
+                    padding: 1.7em;
+                    text-decoration: uppercase;
+                    font-size: 0.8em;
+
+                    &:hover {
+                        background-color: $off-white;
+                        margin: 0;
+                    }
+                }
+            }
+        }
+    }
+    
+}

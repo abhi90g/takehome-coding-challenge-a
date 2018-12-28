@@ -1,0 +1,104 @@
+
+
+
+    ul {
+        list-style-type: none;
+        margin:0;padding:0;
+
+        .targetList:hover {
+            transform: scale(1.05);
+            transition: all 1s;
+          }
+    
+        li {
+            background: #fff;
+            border-radius: 8px;
+            padding: 40px;
+            margin-bottom: 8px;
+            
+
+
+            .row {
+                display: flex;
+                height: 100%;
+
+                .column:nth-last-of-type(1){
+                    flex: 1;
+                }
+
+                .column:nth-last-of-type(2) {
+                    flex: 5;
+                }
+
+                .column {
+                    width: 50%;
+
+                    a {
+                        font-size: 1.5em;
+                        text-decoration: none;
+                        font-weight: bold;
+                        color:#00A8FF;
+                    }
+            
+                    ul {
+                        margin-top: 20px;
+                        
+                        li {
+                            padding:0;
+            
+                            a {
+                                font-size: 1em;
+                                font-weight: 300;
+                            }
+                        }
+                    }
+                }
+            }
+            
+        }
+    }
+
+
+// @mixin table-responsive-full ($breakpoint: 768px, $name-column-width: 30%, $color-first: #fff, $color-second: #cecece) {
+
+//     @media only screen and (max-width: $breakpoint) {
+//         thead tr { // hide visually
+//             position: absolute;
+//             width: 1px;
+//             height: 1px;
+//             margin: -1px;
+//             padding: 0;
+//             overflow: hidden;
+//             clip: rect(0, 0, 0, 0);
+//             border: 0;
+//         }
+
+//         thead, tbody, th, td, tr { 
+//             display: block; 
+//         }
+        
+//         td {
+//             position: relative;
+//             width: auto;
+//             padding-left: $name-column-width;
+//         }
+        
+//         td:before {
+//             content: attr(data-label);
+//             position: absolute;
+//             top: 0;
+//             left: 0;
+//             width: $name-column-width;
+//             height: 100%;
+//         }
+        
+//         tr:nth-of-type(odd), tr:nth-of-type(odd) td {
+//             background-color: $color-first;
+//         }
+        
+//         tr:nth-of-type(even), tr:nth-of-type(even) td {
+//             background-color: $color-second;
+//         }
+//     }
+
+// }

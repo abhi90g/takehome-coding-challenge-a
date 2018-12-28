@@ -1,0 +1,54 @@
+<h1> Target Companies </h1>
+
+<app-modal buttonName="ADD COMPANY"></app-modal>
+
+
+<ul>
+  <li *ngFor='let target of targets$' class="targetList">
+    <div class="row">
+      <div class="column">
+        <a routerLink='/details/{{target.id}}'>
+          {{target.company_name}}
+        </a>
+
+        <ul>
+          <li> <strong>Status:</strong> {{target.status}} </li>
+          <li> <strong>Performance: </strong> {{target.performance}} </li>
+          <li> <strong>Key Contacts: </strong> {{target.key_contacts.first_contact}},
+            {{target.key_contacts.second_contact}} </li>
+          <li>
+            <a href="/"> {{target.website}} </a>
+          </li>
+        </ul>
+      </div>
+
+      <div class="column">
+        <ul>
+          <li> <button (click)='deleteItem(target)' class="btn btn-danger"> Delete </button> </li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- <a routerLink='/details/{{target.id}}'>
+      {{target.company_name}}
+    </a>
+
+    <ul>
+      <li> <strong>Status:</strong> {{target.status}} </li>
+      <li> <strong>Performance: </strong> {{target.performance}} </li>
+      <li> <strong>Key Contacts: </strong> {{target.key_contacts.first_contact}},
+        {{target.key_contacts.second_contact}} </li>
+      <li>
+        <a href="/"> {{target.website}} </a>
+      </li>
+    </ul>
+
+    <ul>
+      <li>edit</li>
+      <li>delete</li>
+    </ul> -->
+
+  </li>
+
+
+</ul>

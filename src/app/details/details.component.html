@@ -1,0 +1,42 @@
+<div class="back"> <a routerLink='/'> Back </a> </div>
+<div *ngIf='target$' class="details">
+  <div class="heading">
+    <h1> {{target$.company_name}} </h1>
+    <div class="edit">
+      <app-modal buttonName="Edit" [target]='target$'></app-modal>
+    </div>
+  </div>
+
+
+  <p> {{target$.info}} </p>
+
+  <ul>
+    <li>
+      <strong>Website: </strong> {{target$.website}}
+    </li>
+    <li>
+      <strong>Status: </strong> {{target$.status}}
+    </li>
+    <li>
+      <strong>Performance: </strong> {{target$.performance}}
+    </li>
+    <li>
+      <strong> Address: </strong> {{target$.address.street}}, {{target$.address.city}},
+      {{target$.address.state}},{{target$.address.zip}}
+    </li>
+    <li>
+      <strong>Phone: </strong> {{target$.company_phone}}
+    </li>
+    <li>
+      <strong>Key Contacts: </strong> {{target$.key_contacts.first_contact}}, {{target$.key_contacts.second_contact}}
+    </li>
+  </ul>
+
+  <div *ngIf="chart" class="revChart">
+    <canvas id="canvasRev">{{ chart }}</canvas>
+  </div>
+
+  <div *ngIf="chart1" class="ebitdaChart">
+    <canvas id="canvasEbitda">{{ chart1 }}</canvas>
+  </div>
+</div>

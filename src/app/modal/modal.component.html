@@ -1,0 +1,76 @@
+<ng-template #content let-modal>
+  <div class="modal-header">
+
+    <h4 class="modal-title"> {{header}} </h4>
+
+    <button type="button" class="close" aria-label="Close" (click)="modal.dismiss('Cross click')">
+      <span aria-hidden="true">&times;</span>
+    </button>
+  </div>
+
+
+  <div class="modal-body">
+    <form [formGroup]="companyForm">
+      <div class="form-group">
+        <label> Company Name </label>
+        <input type="text" formControlName='company_name' class="form-control" *ngIf='buttonName === "ADD COMPANY" ' value=" " />
+        <input type="text" formControlName='company_name' class="form-control" *ngIf='buttonName === "Edit" ' value=" {{target.company_name}} "
+          disabled />
+      </div>
+
+      <div class="form-group">
+        <label> Status </label>
+        <select *ngIf='buttonName === "ADD COMPANY" ' class="form-control" formControlName='status'>
+          <option *ngFor='let status of statuses'> {{status}} </option>
+        </select>
+        <select *ngIf='buttonName === "Edit" ' class="form-control" [value]='target.status' formControlName='status' [(ngModel)]='status'>
+          <option *ngFor='let status of statuses'> {{status}} </option>
+        </select>
+      </div>
+
+      <div class="form-group">
+        <label> Performance </label>
+        <select *ngIf='buttonName === "ADD COMPANY" ' class="form-control" formControlName='performance'>
+          <option *ngFor='let perf of Performance'> {{perf}} </option>
+        </select>
+        <select *ngIf='buttonName === "Edit" ' class="form-control" [value]='target.performance' formControlName='performance' [(ngModel)]='performance'>
+          <option *ngFor='let perf of Performance'> {{perf}} </option>
+        </select>
+      </div>
+
+      <div class="form-group" formGroupName="key_contacts">
+        <label> Key Contacts </label>
+        <div class="input-group"  >
+          <input type="text" formControlName='first_contact' class="form-control" *ngIf='buttonName === "ADD COMPANY" ' value=" " />
+          <input type="text" formControlName='second_contact' class="form-control" *ngIf='buttonName === "ADD COMPANY" ' value=" " />
+        </div>
+        <div class="input-group">
+          <input type="text" formControlName='first_contact' class="form-control" *ngIf='buttonName === "Edit"' value=" {{target.key_contacts.first_contact}}"
+          disabled />
+          <input type="text" formControlName='second_contact' class="form-control" *ngIf='buttonName === "Edit"' value=" {{target.key_contacts.second_contact}} "
+          disabled />
+        </div>
+        
+      </div>
+      <div class="form-group">
+        <label> Website </label>
+        <input type="text" formControlName='website' class="form-control" *ngIf='buttonName === "ADD COMPANY"' value=" " />
+        <input type="text" formControlName='website' class="form-control" *ngIf='buttonName === "Edit"' value=" {{target.website}} " disabled />
+      </div>
+    </form>
+  </div>
+
+  <div class="modal-footer">
+    <button type="button" class="btn btn-light" (click)="addCompany()" *ngIf='buttonName === "ADD COMPANY" ' [disabled]="companyForm.pristine">
+      Add </button>
+    <button type="button" class="btn btn-light" (click)="updateForm(target)" *ngIf='buttonName === "Edit" '>
+      Update </button>
+    <button type="button" class="btn btn-light" (click)="modal.close('Close click')">Close</button>
+  </div>
+
+
+</ng-template>
+
+
+
+<button class="btn btn-outline-primary mb-2 mr-2" (click)="modalFormOpen(content)"> {{buttonName}} </button>

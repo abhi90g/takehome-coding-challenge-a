@@ -1,0 +1,2163 @@
+{
+  "companyData": [
+    {
+      "company_name": "Cogidoo",
+      "info": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum. In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor. Duis mattis egestas metus. Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.",
+      "key_contacts": {
+        "first_contact": "Taber",
+        "second_contact": "Mireielle"
+      },
+      "website": "http://chron.com",
+      "address": {
+        "street": "158 Vernon Terrace",
+        "city": "San Jose",
+        "state": "California",
+        "zip": "95155"
+      },
+      "company_phone": "408-882-6676",
+      "revenue": {
+        "2016 q1": "$78934401.55",
+        "2016 q2": "$45409762.86",
+        "2016 q3": "$69956607.44",
+        "2016 q4": "$63034187.16",
+        "2017 q1": "$53807779.95",
+        "2017 q2": "$12136989.37",
+        "2017 q3": "$59809785.05",
+        "2017 q4": "$12245424.03",
+        "2018 q1": "$42943325.63",
+        "2018 q2": "$68539106.72",
+        "2018 q3": "$12952468.80"
+      },
+      "ebitda": {
+        "2016 q1": "$262649.62",
+        "2016 q2": "$468436.48",
+        "2016 q3": "$990277.70",
+        "2016 q4": "$1929455.43",
+        "2017 q1": "$680556.15",
+        "2017 q2": "$1049506.04",
+        "2017 q3": "$385521.60",
+        "2017 q4": "$1897687.07",
+        "2018 q1": "$1129974.33",
+        "2018 q2": "$729457.56",
+        "2018 q3": "$213359.46"
+      },
+      "id": 3,
+      "status": "Pending Approval"
+    },
+    {
+      "id": 4,
+      "company_name": "Realblab",
+      "status": "Researching",
+      "info": "Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",
+      "key_contacts": {
+        "first_contact": "Port",
+        "second_contact": "Blisse"
+      },
+      "website": "http://webmd.com",
+      "address": {
+        "street": "7 Corry Alley",
+        "city": "Lexington",
+        "state": "Kentucky",
+        "zip": "40515"
+      },
+      "company_phone": "859-586-6203",
+      "revenue": {
+        "2016 q1": "$25083523.53",
+        "2016 q2": "$68744394.43",
+        "2016 q3": "$98864661.16",
+        "2016 q4": "$86945122.66",
+        "2017 q1": "$87063485.48",
+        "2017 q2": "$80867940.77",
+        "2017 q3": "$97345083.14",
+        "2017 q4": "$76303064.01",
+        "2018 q1": "$39006183.27",
+        "2018 q2": "$52190615.45",
+        "2018 q3": "$53436832.95"
+      },
+      "ebitda": {
+        "2016 q1": "$301512.68",
+        "2016 q2": "$1740427.76",
+        "2016 q3": "$1568339.09",
+        "2016 q4": "$1390082.37",
+        "2017 q1": "$188110.41",
+        "2017 q2": "$1341365.33",
+        "2017 q3": "$1369739.69",
+        "2017 q4": "$1508287.93",
+        "2018 q1": "$1688018.61",
+        "2018 q2": "$234703.44",
+        "2018 q3": "$1252093.92"
+      },
+      "performance": "Good"
+    },
+    {
+      "id": 5,
+      "company_name": "Babbleopia",
+      "status": "Declined",
+      "info": "Proin at turpis a pede posuere nonummy. Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
+      "performance": "Moderate",
+      "key_contacts": {
+        "first_contact": "Orton",
+        "second_contact": "Melitta"
+      },
+      "website": "http://pcworld.com",
+      "address": {
+        "street": "069 Novick Point",
+        "city": "Tallahassee",
+        "state": "Florida",
+        "zip": "32314"
+      },
+      "company_phone": "850-935-7178",
+      "revenue": {
+        "2016 q1": "$10092348.85",
+        "2016 q2": "$83822155.44",
+        "2016 q3": "$78745483.30",
+        "2016 q4": "$71566033.40",
+        "2017 q1": "$87055543.81",
+        "2017 q2": "$29708169.80",
+        "2017 q3": "$1384987.38",
+        "2017 q4": "$50492161.55",
+        "2018 q1": "$58720814.29",
+        "2018 q2": "$3886586.95",
+        "2018 q3": "$95487895.05"
+      },
+      "ebitda": {
+        "2016 q1": "$443663.15",
+        "2016 q2": "$1843791.33",
+        "2016 q3": "$1216400.48",
+        "2016 q4": "$264523.89",
+        "2017 q1": "$1817541.21",
+        "2017 q2": "$1878517.94",
+        "2017 q3": "$1743695.80",
+        "2017 q4": "$1947138.68",
+        "2018 q1": "$1097991.11",
+        "2018 q2": "$1872644.12",
+        "2018 q3": "$1673785.53"
+      }
+    },
+    {
+      "id": 6,
+      "company_name": "Aibox",
+      "status": "Declined",
+      "info": "Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+      "performance": "Good",
+      "key_contacts": {
+        "first_contact": "Reube",
+        "second_contact": "Dolly"
+      },
+      "website": "https://is.gd",
+      "address": {
+        "street": "2113 Bluejay Parkway",
+        "city": "Tyler",
+        "state": "Texas",
+        "zip": "75705"
+      },
+      "company_phone": "903-760-3159",
+      "revenue": {
+        "2016 q1": "$55921301.07",
+        "2016 q2": "$44114148.04",
+        "2016 q3": "$17490393.23",
+        "2016 q4": "$28412133.10",
+        "2017 q1": "$68190971.92",
+        "2017 q2": "$51029347.30",
+        "2017 q3": "$32184477.98",
+        "2017 q4": "$43845570.91",
+        "2018 q1": "$37268262.38",
+        "2018 q2": "$35514950.44",
+        "2018 q3": "$4304689.86"
+      },
+      "ebitda": {
+        "2016 q1": "$1772830.68",
+        "2016 q2": "$1070393.20",
+        "2016 q3": "$789602.02",
+        "2016 q4": "$695158.37",
+        "2017 q1": "$1263651.88",
+        "2017 q2": "$587898.99",
+        "2017 q3": "$1406203.32",
+        "2017 q4": "$1523802.53",
+        "2018 q1": "$605794.87",
+        "2018 q2": "$1694526.67",
+        "2018 q3": "$1820957.81"
+      }
+    },
+    {
+      "id": 7,
+      "company_name": "Voomm",
+      "status": "Approved",
+      "info": "Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl. Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum. In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",
+      "performance": "Good",
+      "key_contacts": {
+        "first_contact": "Felizio",
+        "second_contact": "Lillian"
+      },
+      "website": "https://imageshack.us",
+      "address": {
+        "street": "39 Waubesa Alley",
+        "city": "Shreveport",
+        "state": "Louisiana",
+        "zip": "71105"
+      },
+      "company_phone": "318-683-9127",
+      "revenue": {
+        "2016 q1": "$25497639.04",
+        "2016 q2": "$47988869.58",
+        "2016 q3": "$40098371.69",
+        "2016 q4": "$17273510.71",
+        "2017 q1": "$28187997.54",
+        "2017 q2": "$55306867.32",
+        "2017 q3": "$72795779.93",
+        "2017 q4": "$82138404.59",
+        "2018 q1": "$98310382.29",
+        "2018 q2": "$54471937.44",
+        "2018 q3": "$3938797.99"
+      },
+      "ebitda": {
+        "2016 q1": "$1193847.48",
+        "2016 q2": "$903444.70",
+        "2016 q3": "$1638390.08",
+        "2016 q4": "$364642.21",
+        "2017 q1": "$258917.54",
+        "2017 q2": "$1234027.72",
+        "2017 q3": "$1931651.83",
+        "2017 q4": "$1264581.02",
+        "2018 q1": "$542680.86",
+        "2018 q2": "$1369108.53",
+        "2018 q3": "$512786.30"
+      }
+    },
+    {
+      "id": 8,
+      "company_name": "Browsezoom",
+      "status": "Approved",
+      "info": "Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",
+      "performance": "Good",
+      "key_contacts": {
+        "first_contact": "Amory",
+        "second_contact": "Lib"
+      },
+      "website": "http://psu.edu",
+      "address": {
+        "street": "96 Sunfield Circle",
+        "city": "Missoula",
+        "state": "Montana",
+        "zip": "59806"
+      },
+      "company_phone": "406-655-0248",
+      "revenue": {
+        "2016 q1": "$85093574.22",
+        "2016 q2": "$37604509.10",
+        "2016 q3": "$10976209.49",
+        "2016 q4": "$69838720.31",
+        "2017 q1": "$29575485.23",
+        "2017 q2": "$84095860.49",
+        "2017 q3": "$87635980.15",
+        "2017 q4": "$93167482.28",
+        "2018 q1": "$51334587.37",
+        "2018 q2": "$44460024.93",
+        "2018 q3": "$56528112.18"
+      },
+      "ebitda": {
+        "2016 q1": "$840836.78",
+        "2016 q2": "$1798749.58",
+        "2016 q3": "$699225.77",
+        "2016 q4": "$1249203.22",
+        "2017 q1": "$1211874.73",
+        "2017 q2": "$1462436.54",
+        "2017 q3": "$1776385.55",
+        "2017 q4": "$1691813.33",
+        "2018 q1": "$670553.81",
+        "2018 q2": "$1565949.12",
+        "2018 q3": "$1568007.74"
+      }
+    },
+    {
+      "id": 9,
+      "company_name": "Thoughtworks",
+      "status": "Approved",
+      "info": "Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.",
+      "performance": "Good",
+      "key_contacts": {
+        "first_contact": "Thayne",
+        "second_contact": "Dorry"
+      },
+      "website": "http://weather.com",
+      "address": {
+        "street": "7652 Northport Alley",
+        "city": "Clearwater",
+        "state": "Florida",
+        "zip": "33763"
+      },
+      "company_phone": "727-154-5604",
+      "revenue": {
+        "2016 q1": "$93050706.37",
+        "2016 q2": "$71754583.97",
+        "2016 q3": "$51064668.77",
+        "2016 q4": "$65779762.34",
+        "2017 q1": "$37906573.62",
+        "2017 q2": "$75139834.70",
+        "2017 q3": "$10531971.62",
+        "2017 q4": "$17515427.30",
+        "2018 q1": "$41991503.78",
+        "2018 q2": "$95141040.40",
+        "2018 q3": "$8602194.59"
+      },
+      "ebitda": {
+        "2016 q1": "$1759188.07",
+        "2016 q2": "$1603356.93",
+        "2016 q3": "$1733235.93",
+        "2016 q4": "$1723374.58",
+        "2017 q1": "$989004.47",
+        "2017 q2": "$947039.27",
+        "2017 q3": "$104369.84",
+        "2017 q4": "$1562042.73",
+        "2018 q1": "$1587310.49",
+        "2018 q2": "$353317.75",
+        "2018 q3": "$1981319.06"
+      }
+    },
+    {
+      "id": 10,
+      "company_name": "Demivee",
+      "status": "Approved",
+      "info": "Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
+      "performance": "Good",
+      "key_contacts": {
+        "first_contact": "Shepherd",
+        "second_contact": "Dorree"
+      },
+      "website": "https://blog.com",
+      "address": {
+        "street": "3 Shoshone Trail",
+        "city": "Lakewood",
+        "state": "Washington",
+        "zip": "98498"
+      },
+      "company_phone": "253-198-4387",
+      "revenue": {
+        "2016 q1": "$16817891.17",
+        "2016 q2": "$8122581.28",
+        "2016 q3": "$54498951.79",
+        "2016 q4": "$80054680.62",
+        "2017 q1": "$71738802.93",
+        "2017 q2": "$59814448.96",
+        "2017 q3": "$1649061.19",
+        "2017 q4": "$88972618.81",
+        "2018 q1": "$97953120.77",
+        "2018 q2": "$3744219.19",
+        "2018 q3": "$13453536.35"
+      },
+      "ebitda": {
+        "2016 q1": "$125701.24",
+        "2016 q2": "$1397634.45",
+        "2016 q3": "$862496.56",
+        "2016 q4": "$1837014.44",
+        "2017 q1": "$773894.61",
+        "2017 q2": "$1522675.64",
+        "2017 q3": "$1226216.33",
+        "2017 q4": "$1766893.52",
+        "2018 q1": "$1424439.11",
+        "2018 q2": "$205572.11",
+        "2018 q3": "$1106135.76"
+      }
+    },
+    {
+      "id": 11,
+      "company_name": "Babblestorm",
+      "status": "Approved",
+      "info": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue.",
+      "performance": "Good",
+      "key_contacts": {
+        "first_contact": "Dimitry",
+        "second_contact": "Chryste"
+      },
+      "website": "https://pen.io",
+      "address": {
+        "street": "47 Vahlen Point",
+        "city": "Memphis",
+        "state": "Tennessee",
+        "zip": "38114"
+      },
+      "company_phone": "901-247-9280",
+      "revenue": {
+        "2016 q1": "$88526759.03",
+        "2016 q2": "$7331019.44",
+        "2016 q3": "$23187651.47",
+        "2016 q4": "$31368627.27",
+        "2017 q1": "$8939272.82",
+        "2017 q2": "$28230081.88",
+        "2017 q3": "$26376141.69",
+        "2017 q4": "$16893009.58",
+        "2018 q1": "$15622767.81",
+        "2018 q2": "$45304594.72",
+        "2018 q3": "$44454810.97"
+      },
+      "ebitda": {
+        "2016 q1": "$669382.30",
+        "2016 q2": "$123492.52",
+        "2016 q3": "$1964784.61",
+        "2016 q4": "$1737892.49",
+        "2017 q1": "$1661559.55",
+        "2017 q2": "$1412408.01",
+        "2017 q3": "$615684.60",
+        "2017 q4": "$798136.40",
+        "2018 q1": "$390960.76",
+        "2018 q2": "$1866087.67",
+        "2018 q3": "$756942.50"
+      }
+    },
+    {
+      "id": 12,
+      "company_name": "Photobug",
+      "status": "Approved",
+      "info": "Phasellus in felis. Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla.",
+      "performance": "Excellent",
+      "key_contacts": {
+        "first_contact": "Ed",
+        "second_contact": "Opaline"
+      },
+      "website": "http://uol.com.br",
+      "address": {
+        "street": "2 Arrowood Park",
+        "city": "Concord",
+        "state": "California",
+        "zip": "94522"
+      },
+      "company_phone": "925-850-6485",
+      "revenue": {
+        "2016 q1": "$15471447.15",
+        "2016 q2": "$6872264.95",
+        "2016 q3": "$32219517.30",
+        "2016 q4": "$57894357.63",
+        "2017 q1": "$68100768.78",
+        "2017 q2": "$25456594.74",
+        "2017 q3": "$83837597.39",
+        "2017 q4": "$47862947.15",
+        "2018 q1": "$41479247.50",
+        "2018 q2": "$89110522.77",
+        "2018 q3": "$70809911.89"
+      },
+      "ebitda": {
+        "2016 q1": "$913734.46",
+        "2016 q2": "$493993.17",
+        "2016 q3": "$666426.63",
+        "2016 q4": "$971785.65",
+        "2017 q1": "$1601934.98",
+        "2017 q2": "$116086.78",
+        "2017 q3": "$1176583.26",
+        "2017 q4": "$421063.09",
+        "2018 q1": "$414265.24",
+        "2018 q2": "$359504.70",
+        "2018 q3": "$138474.17"
+      }
+    },
+    {
+      "id": 13,
+      "company_name": "Shufflebeat",
+      "status": "Approved",
+      "info": "Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst.",
+      "performance": "Excellent",
+      "key_contacts": {
+        "first_contact": "Bink",
+        "second_contact": "Nike"
+      },
+      "website": "http://moonfruit.com",
+      "address": {
+        "street": "25394 Lakewood Drive",
+        "city": "Clearwater",
+        "state": "Florida",
+        "zip": "34629"
+      },
+      "company_phone": "727-490-6117",
+      "revenue": {
+        "2016 q1": "$73012092.65",
+        "2016 q2": "$58890447.65",
+        "2016 q3": "$40940312.25",
+        "2016 q4": "$26048091.90",
+        "2017 q1": "$4782784.35",
+        "2017 q2": "$14859008.28",
+        "2017 q3": "$62842912.37",
+        "2017 q4": "$5366838.37",
+        "2018 q1": "$74283893.22",
+        "2018 q2": "$89107634.60",
+        "2018 q3": "$73083676.12"
+      },
+      "ebitda": {
+        "2016 q1": "$1065111.42",
+        "2016 q2": "$1193266.15",
+        "2016 q3": "$1388385.45",
+        "2016 q4": "$1140034.41",
+        "2017 q1": "$868488.14",
+        "2017 q2": "$1066769.95",
+        "2017 q3": "$134043.70",
+        "2017 q4": "$222943.77",
+        "2018 q1": "$1295622.65",
+        "2018 q2": "$405023.87",
+        "2018 q3": "$1186220.93"
+      }
+    },
+    {
+      "id": 14,
+      "company_name": "Topicstorm",
+      "status": "Approved",
+      "info": "Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam.",
+      "performance": "Good",
+      "key_contacts": {
+        "first_contact": "Mario",
+        "second_contact": "Kimmy"
+      },
+      "website": "http://yahoo.co.jp",
+      "address": {
+        "street": "424 Summerview Parkway",
+        "city": "Fort Lauderdale",
+        "state": "Florida",
+        "zip": "33336"
+      },
+      "company_phone": "754-627-3940",
+      "revenue": {
+        "2016 q1": "$53226139.44",
+        "2016 q2": "$59875922.84",
+        "2016 q3": "$78860801.96",
+        "2016 q4": "$40478720.01",
+        "2017 q1": "$17171038.00",
+        "2017 q2": "$15576487.28",
+        "2017 q3": "$57580120.19",
+        "2017 q4": "$93701867.44",
+        "2018 q1": "$26454827.49",
+        "2018 q2": "$96541502.68",
+        "2018 q3": "$50863840.00"
+      },
+      "ebitda": {
+        "2016 q1": "$268942.77",
+        "2016 q2": "$617430.83",
+        "2016 q3": "$238763.88",
+        "2016 q4": "$269148.31",
+        "2017 q1": "$1456668.99",
+        "2017 q2": "$1600441.56",
+        "2017 q3": "$220053.03",
+        "2017 q4": "$491595.02",
+        "2018 q1": "$1566889.16",
+        "2018 q2": "$1464963.79",
+        "2018 q3": "$1244395.95"
+      }
+    },
+    {
+      "id": 15,
+      "company_name": "Kaymbo",
+      "status": "Approved",
+      "info": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl. Duis ac nibh.",
+      "performance": "Excellent",
+      "key_contacts": {
+        "first_contact": "Wilfred",
+        "second_contact": "Deidre"
+      },
+      "website": "https://bloglines.com",
+      "address": {
+        "street": "79 Del Sol Plaza",
+        "city": "Phoenix",
+        "state": "Arizona",
+        "zip": "85067"
+      },
+      "company_phone": "602-436-0741",
+      "revenue": {
+        "2016 q1": "$70130364.49",
+        "2016 q2": "$83275459.44",
+        "2016 q3": "$5940672.73",
+        "2016 q4": "$29656172.43",
+        "2017 q1": "$37523512.70",
+        "2017 q2": "$84246432.11",
+        "2017 q3": "$29797286.55",
+        "2017 q4": "$7898139.44",
+        "2018 q1": "$55558920.34",
+        "2018 q2": "$38071590.30",
+        "2018 q3": "$86441451.84"
+      },
+      "ebitda": {
+        "2016 q1": "$423257.71",
+        "2016 q2": "$527072.32",
+        "2016 q3": "$760425.09",
+        "2016 q4": "$1891556.60",
+        "2017 q1": "$757430.22",
+        "2017 q2": "$1783673.45",
+        "2017 q3": "$1658338.54",
+        "2017 q4": "$1295826.61",
+        "2018 q1": "$444276.47",
+        "2018 q2": "$1372667.97",
+        "2018 q3": "$1056920.65"
+      }
+    },
+    {
+      "id": 16,
+      "company_name": "Tagfeed",
+      "status": "Approved",
+      "info": "Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti.",
+      "performance": "Good",
+      "key_contacts": {
+        "first_contact": "Avrom",
+        "second_contact": "Henrie"
+      },
+      "website": "https://tmall.com",
+      "address": {
+        "street": "1 Huxley Hill",
+        "city": "Lancaster",
+        "state": "California",
+        "zip": "93584"
+      },
+      "company_phone": "661-325-1959",
+      "revenue": {
+        "2016 q1": "$11963173.33",
+        "2016 q2": "$71204059.23",
+        "2016 q3": "$65226414.94",
+        "2016 q4": "$5728426.37",
+        "2017 q1": "$6388273.64",
+        "2017 q2": "$68248117.78",
+        "2017 q3": "$2270257.99",
+        "2017 q4": "$17961701.42",
+        "2018 q1": "$12103400.71",
+        "2018 q2": "$97743421.56",
+        "2018 q3": "$11928343.76"
+      },
+      "ebitda": {
+        "2016 q1": "$720442.78",
+        "2016 q2": "$846316.20",
+        "2016 q3": "$952137.73",
+        "2016 q4": "$640391.82",
+        "2017 q1": "$662095.06",
+        "2017 q2": "$215438.21",
+        "2017 q3": "$1660878.70",
+        "2017 q4": "$1175066.48",
+        "2018 q1": "$609879.59",
+        "2018 q2": "$537621.58",
+        "2018 q3": "$342618.66"
+      }
+    },
+    {
+      "id": 17,
+      "company_name": "Photobug",
+      "status": "Approved",
+      "info": "Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
+      "performance": "Excellent",
+      "key_contacts": {
+        "first_contact": "Urbain",
+        "second_contact": "Cammie"
+      },
+      "website": "https://shareasale.com",
+      "address": {
+        "street": "0 Russell Road",
+        "city": "Saint Paul",
+        "state": "Minnesota",
+        "zip": "55108"
+      },
+      "company_phone": "612-855-3473",
+      "revenue": {
+        "2016 q1": "$84193931.55",
+        "2016 q2": "$6229367.63",
+        "2016 q3": "$55199949.19",
+        "2016 q4": "$11141622.73",
+        "2017 q1": "$93554377.25",
+        "2017 q2": "$37843794.09",
+        "2017 q3": "$64871816.50",
+        "2017 q4": "$15424358.24",
+        "2018 q1": "$60139270.21",
+        "2018 q2": "$17624383.17",
+        "2018 q3": "$46359179.04"
+      },
+      "ebitda": {
+        "2016 q1": "$1183072.11",
+        "2016 q2": "$527751.42",
+        "2016 q3": "$1002651.72",
+        "2016 q4": "$542540.34",
+        "2017 q1": "$953808.21",
+        "2017 q2": "$1025447.47",
+        "2017 q3": "$1520146.27",
+        "2017 q4": "$738133.83",
+        "2018 q1": "$1184859.59",
+        "2018 q2": "$1349082.05",
+        "2018 q3": "$886091.79"
+      }
+    },
+    {
+      "id": 18,
+      "company_name": "Blogspan",
+      "status": "Researching",
+      "info": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio.",
+      "performance": "Excellent",
+      "key_contacts": {
+        "first_contact": "Rem",
+        "second_contact": "Amalea"
+      },
+      "website": "https://cpanel.net",
+      "address": {
+        "street": "60807 Vermont Place",
+        "city": "Phoenix",
+        "state": "Arizona",
+        "zip": "85062"
+      },
+      "company_phone": "602-178-4402",
+      "revenue": {
+        "2016 q1": "$48554611.26",
+        "2016 q2": "$50977184.55",
+        "2016 q3": "$23367172.31",
+        "2016 q4": "$30988631.01",
+        "2017 q1": "$95297872.89",
+        "2017 q2": "$66505364.10",
+        "2017 q3": "$60022647.06",
+        "2017 q4": "$97586813.54",
+        "2018 q1": "$38492783.17",
+        "2018 q2": "$39506393.81",
+        "2018 q3": "$40799228.09"
+      },
+      "ebitda": {
+        "2016 q1": "$1701927.02",
+        "2016 q2": "$425112.51",
+        "2016 q3": "$1229785.90",
+        "2016 q4": "$1869583.45",
+        "2017 q1": "$976356.60",
+        "2017 q2": "$184828.74",
+        "2017 q3": "$733428.19",
+        "2017 q4": "$1482617.17",
+        "2018 q1": "$263499.40",
+        "2018 q2": "$186711.81",
+        "2018 q3": "$1435072.76"
+      }
+    },
+    {
+      "id": 19,
+      "company_name": "Shuffletag",
+      "status": "Researching",
+      "info": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl. Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum. In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor. Duis mattis egestas metus.",
+      "performance": "Good",
+      "key_contacts": {
+        "first_contact": "Regan",
+        "second_contact": "Anne"
+      },
+      "website": "http://amazon.com",
+      "address": {
+        "street": "09814 Fairfield Drive",
+        "city": "Denver",
+        "state": "Colorado",
+        "zip": "80291"
+      },
+      "company_phone": "303-591-4196",
+      "revenue": {
+        "2016 q1": "$39481723.13",
+        "2016 q2": "$35156013.13",
+        "2016 q3": "$37347572.43",
+        "2016 q4": "$98397662.35",
+        "2017 q1": "$49685480.46",
+        "2017 q2": "$33647026.91",
+        "2017 q3": "$94046191.96",
+        "2017 q4": "$66193906.31",
+        "2018 q1": "$73196469.90",
+        "2018 q2": "$68048153.86",
+        "2018 q3": "$83343004.37"
+      },
+      "ebitda": {
+        "2016 q1": "$1702224.49",
+        "2016 q2": "$1071781.22",
+        "2016 q3": "$1801469.14",
+        "2016 q4": "$1364200.60",
+        "2017 q1": "$1826575.98",
+        "2017 q2": "$1126245.55",
+        "2017 q3": "$1680921.76",
+        "2017 q4": "$408517.42",
+        "2018 q1": "$1646250.62",
+        "2018 q2": "$799818.20",
+        "2018 q3": "$1920933.29"
+      }
+    },
+    {
+      "id": 20,
+      "company_name": "Topicshots",
+      "status": "Researching",
+      "info": "Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio.",
+      "performance": "Excellent",
+      "key_contacts": {
+        "first_contact": "Pebrook",
+        "second_contact": "Noell"
+      },
+      "website": "http://alexa.com",
+      "address": {
+        "street": "3 Sutherland Crossing",
+        "city": "Rochester",
+        "state": "Minnesota",
+        "zip": "55905"
+      },
+      "company_phone": "507-607-5740",
+      "revenue": {
+        "2016 q1": "$58501390.88",
+        "2016 q2": "$25501963.95",
+        "2016 q3": "$17439431.27",
+        "2016 q4": "$49665931.54",
+        "2017 q1": "$71906691.44",
+        "2017 q2": "$27793589.12",
+        "2017 q3": "$16802540.87",
+        "2017 q4": "$55763299.68",
+        "2018 q1": "$47420655.88",
+        "2018 q2": "$82446703.09",
+        "2018 q3": "$94563334.68"
+      },
+      "ebitda": {
+        "2016 q1": "$821428.12",
+        "2016 q2": "$1278846.50",
+        "2016 q3": "$503659.14",
+        "2016 q4": "$1866653.98",
+        "2017 q1": "$298801.77",
+        "2017 q2": "$858116.82",
+        "2017 q3": "$224744.90",
+        "2017 q4": "$597649.60",
+        "2018 q1": "$1164554.89",
+        "2018 q2": "$1138105.50",
+        "2018 q3": "$140281.70"
+      }
+    },
+    {
+      "id": 21,
+      "company_name": "Zoomzone",
+      "status": "Researching",
+      "info": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus.",
+      "performance": "Bad",
+      "key_contacts": {
+        "first_contact": "Rex",
+        "second_contact": "Amandy"
+      },
+      "website": "https://networkadvertising.org",
+      "address": {
+        "street": "46 Bunker Hill Street",
+        "city": "Orlando",
+        "state": "Florida",
+        "zip": "32830"
+      },
+      "company_phone": "407-456-0901",
+      "revenue": {
+        "2016 q1": "$98169883.69",
+        "2016 q2": "$74271742.91",
+        "2016 q3": "$53647299.64",
+        "2016 q4": "$30904762.78",
+        "2017 q1": "$11662732.49",
+        "2017 q2": "$86611655.19",
+        "2017 q3": "$43012062.08",
+        "2017 q4": "$55508996.98",
+        "2018 q1": "$99448857.43",
+        "2018 q2": "$96919923.62",
+        "2018 q3": "$41909306.07"
+      },
+      "ebitda": {
+        "2016 q1": "$537988.53",
+        "2016 q2": "$1972875.47",
+        "2016 q3": "$1934919.48",
+        "2016 q4": "$1371007.88",
+        "2017 q1": "$635658.85",
+        "2017 q2": "$127378.44",
+        "2017 q3": "$1544016.50",
+        "2017 q4": "$727021.80",
+        "2018 q1": "$1742990.87",
+        "2018 q2": "$411521.93",
+        "2018 q3": "$1701022.30"
+      }
+    },
+    {
+      "id": 22,
+      "company_name": "Brainbox",
+      "status": "Researching",
+      "info": "Etiam justo. Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi. Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+      "performance": "Excellent",
+      "key_contacts": {
+        "first_contact": "Blayne",
+        "second_contact": "Agneta"
+      },
+      "website": "https://hexun.com",
+      "address": {
+        "street": "83 Chinook Parkway",
+        "city": "Amarillo",
+        "state": "Texas",
+        "zip": "79176"
+      },
+      "company_phone": "806-348-1439",
+      "revenue": {
+        "2016 q1": "$87909547.17",
+        "2016 q2": "$64615468.49",
+        "2016 q3": "$39351418.56",
+        "2016 q4": "$21272091.08",
+        "2017 q1": "$95517037.97",
+        "2017 q2": "$87757333.61",
+        "2017 q3": "$80649479.17",
+        "2017 q4": "$60180649.14",
+        "2018 q1": "$85116073.65",
+        "2018 q2": "$27280009.05",
+        "2018 q3": "$26709868.37"
+      },
+      "ebitda": {
+        "2016 q1": "$1170639.62",
+        "2016 q2": "$1688861.68",
+        "2016 q3": "$1106545.43",
+        "2016 q4": "$1279834.26",
+        "2017 q1": "$1408027.11",
+        "2017 q2": "$226343.46",
+        "2017 q3": "$1889047.75",
+        "2017 q4": "$1003071.87",
+        "2018 q1": "$1584743.78",
+        "2018 q2": "$1368132.40",
+        "2018 q3": "$382214.41"
+      }
+    },
+    {
+      "id": 23,
+      "company_name": "Skipfire",
+      "status": "Researching",
+      "info": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
+      "performance": "Bad",
+      "key_contacts": {
+        "first_contact": "Giffie",
+        "second_contact": "Jaquelin"
+      },
+      "website": "https://vistaprint.com",
+      "address": {
+        "street": "4957 Coolidge Pass",
+        "city": "Evansville",
+        "state": "Indiana",
+        "zip": "47747"
+      },
+      "company_phone": "812-785-1810",
+      "revenue": {
+        "2016 q1": "$86892396.24",
+        "2016 q2": "$50550927.38",
+        "2016 q3": "$10605527.46",
+        "2016 q4": "$39166358.61",
+        "2017 q1": "$70517162.08",
+        "2017 q2": "$31510262.80",
+        "2017 q3": "$66710995.53",
+        "2017 q4": "$77754203.04",
+        "2018 q1": "$69740494.27",
+        "2018 q2": "$63915532.56",
+        "2018 q3": "$63192069.38"
+      },
+      "ebitda": {
+        "2016 q1": "$840380.38",
+        "2016 q2": "$325872.61",
+        "2016 q3": "$1578099.73",
+        "2016 q4": "$1921871.94",
+        "2017 q1": "$516246.16",
+        "2017 q2": "$1836494.29",
+        "2017 q3": "$327934.96",
+        "2017 q4": "$522413.79",
+        "2018 q1": "$338236.96",
+        "2018 q2": "$1693427.51",
+        "2018 q3": "$1660933.55"
+      }
+    },
+    {
+      "id": 24,
+      "company_name": "Jaxworks",
+      "status": "Researching",
+      "info": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
+      "performance": "Bad",
+      "key_contacts": {
+        "first_contact": "Padriac",
+        "second_contact": "Darcey"
+      },
+      "website": "https://cargocollective.com",
+      "address": {
+        "street": "9422 Swallow Lane",
+        "city": "Anchorage",
+        "state": "Alaska",
+        "zip": "99517"
+      },
+      "company_phone": "907-467-7203",
+      "revenue": {
+        "2016 q1": "$66092665.46",
+        "2016 q2": "$36301682.49",
+        "2016 q3": "$14814295.86",
+        "2016 q4": "$76959297.42",
+        "2017 q1": "$11035471.96",
+        "2017 q2": "$10385351.63",
+        "2017 q3": "$51898224.48",
+        "2017 q4": "$74019964.38",
+        "2018 q1": "$40245323.72",
+        "2018 q2": "$18279481.57",
+        "2018 q3": "$27362229.69"
+      },
+      "ebitda": {
+        "2016 q1": "$736156.11",
+        "2016 q2": "$1048648.61",
+        "2016 q3": "$382321.01",
+        "2016 q4": "$559789.92",
+        "2017 q1": "$635701.08",
+        "2017 q2": "$747377.39",
+        "2017 q3": "$1544434.68",
+        "2017 q4": "$1272169.62",
+        "2018 q1": "$1424887.75",
+        "2018 q2": "$1670265.55",
+        "2018 q3": "$1015944.43"
+      }
+    },
+    {
+      "id": 25,
+      "company_name": "Meembee",
+      "status": "Researching",
+      "info": "Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl. Nunc nisl.",
+      "performance": "Bad",
+      "key_contacts": {
+        "first_contact": "Lawton",
+        "second_contact": "Leann"
+      },
+      "website": "http://spotify.com",
+      "address": {
+        "street": "39195 Northland Parkway",
+        "city": "Columbia",
+        "state": "South Carolina",
+        "zip": "29220"
+      },
+      "company_phone": "803-192-0248",
+      "revenue": {
+        "2016 q1": "$75123679.46",
+        "2016 q2": "$89097357.52",
+        "2016 q3": "$23972689.01",
+        "2016 q4": "$39493522.63",
+        "2017 q1": "$18192749.02",
+        "2017 q2": "$70470105.83",
+        "2017 q3": "$38097289.80",
+        "2017 q4": "$82230841.33",
+        "2018 q1": "$81869547.20",
+        "2018 q2": "$33817217.06",
+        "2018 q3": "$92398542.11"
+      },
+      "ebitda": {
+        "2016 q1": "$912377.33",
+        "2016 q2": "$809037.79",
+        "2016 q3": "$484560.96",
+        "2016 q4": "$1464067.62",
+        "2017 q1": "$1184656.66",
+        "2017 q2": "$1794842.91",
+        "2017 q3": "$1525931.73",
+        "2017 q4": "$927859.05",
+        "2018 q1": "$139781.49",
+        "2018 q2": "$328213.96",
+        "2018 q3": "$314697.29"
+      }
+    },
+    {
+      "id": 26,
+      "company_name": "Dabjam",
+      "status": "Researching",
+      "info": "Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl. Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",
+      "performance": "Excellent",
+      "key_contacts": {
+        "first_contact": "Efren",
+        "second_contact": "Nonah"
+      },
+      "website": "https://hp.com",
+      "address": {
+        "street": "964 Holmberg Road",
+        "city": "Atlanta",
+        "state": "Georgia",
+        "zip": "30328"
+      },
+      "company_phone": "770-402-5288",
+      "revenue": {
+        "2016 q1": "$27602476.33",
+        "2016 q2": "$57961808.79",
+        "2016 q3": "$55051828.24",
+        "2016 q4": "$77838496.46",
+        "2017 q1": "$61234166.93",
+        "2017 q2": "$35764433.99",
+        "2017 q3": "$99823239.50",
+        "2017 q4": "$23666835.00",
+        "2018 q1": "$92518860.52",
+        "2018 q2": "$33001510.79",
+        "2018 q3": "$68150647.51"
+      },
+      "ebitda": {
+        "2016 q1": "$1244516.88",
+        "2016 q2": "$1324316.32",
+        "2016 q3": "$1965063.00",
+        "2016 q4": "$774706.10",
+        "2017 q1": "$351125.99",
+        "2017 q2": "$1573982.20",
+        "2017 q3": "$1874375.63",
+        "2017 q4": "$636718.82",
+        "2018 q1": "$1940896.92",
+        "2018 q2": "$452553.99",
+        "2018 q3": "$1206493.37"
+      }
+    },
+    {
+      "id": 27,
+      "company_name": "Chatterbridge",
+      "status": "Pending Approval",
+      "info": "Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",
+      "performance": "Moderate",
+      "key_contacts": {
+        "first_contact": "Cirstoforo",
+        "second_contact": "Paulita"
+      },
+      "website": "https://geocities.com",
+      "address": {
+        "street": "0304 Clyde Gallagher Pass",
+        "city": "Springfield",
+        "state": "Illinois",
+        "zip": "62756"
+      },
+      "company_phone": "217-345-6108",
+      "revenue": {
+        "2016 q1": "$60372289.49",
+        "2016 q2": "$86631005.38",
+        "2016 q3": "$99073759.97",
+        "2016 q4": "$66416540.21",
+        "2017 q1": "$98258848.35",
+        "2017 q2": "$34658118.23",
+        "2017 q3": "$62107070.77",
+        "2017 q4": "$20662397.50",
+        "2018 q1": "$97736944.10",
+        "2018 q2": "$52451006.48",
+        "2018 q3": "$46252437.90"
+      },
+      "ebitda": {
+        "2016 q1": "$1475045.24",
+        "2016 q2": "$164606.87",
+        "2016 q3": "$1808921.45",
+        "2016 q4": "$1223245.37",
+        "2017 q1": "$211458.98",
+        "2017 q2": "$1593693.97",
+        "2017 q3": "$391621.43",
+        "2017 q4": "$1944208.18",
+        "2018 q1": "$324207.91",
+        "2018 q2": "$819024.39",
+        "2018 q3": "$1104409.69"
+      }
+    },
+    {
+      "id": 28,
+      "company_name": "Trunyx",
+      "status": "Pending Approval",
+      "info": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",
+      "performance": "Bad",
+      "key_contacts": {
+        "first_contact": "Logan",
+        "second_contact": "Florentia"
+      },
+      "website": "http://over-blog.com",
+      "address": {
+        "street": "827 Spohn Lane",
+        "city": "Portland",
+        "state": "Oregon",
+        "zip": "97240"
+      },
+      "company_phone": "971-327-6276",
+      "revenue": {
+        "2016 q1": "$44592945.41",
+        "2016 q2": "$72300866.05",
+        "2016 q3": "$67421444.20",
+        "2016 q4": "$67812890.60",
+        "2017 q1": "$8295392.28",
+        "2017 q2": "$70536427.66",
+        "2017 q3": "$24540541.79",
+        "2017 q4": "$9595497.11",
+        "2018 q1": "$50407318.70",
+        "2018 q2": "$4971918.27",
+        "2018 q3": "$6121191.50"
+      },
+      "ebitda": {
+        "2016 q1": "$1178729.61",
+        "2016 q2": "$1651812.07",
+        "2016 q3": "$749784.17",
+        "2016 q4": "$1390430.84",
+        "2017 q1": "$1966558.26",
+        "2017 q2": "$1159554.56",
+        "2017 q3": "$330930.49",
+        "2017 q4": "$1273730.88",
+        "2018 q1": "$1075165.92",
+        "2018 q2": "$713989.76",
+        "2018 q3": "$674459.63"
+      }
+    },
+    {
+      "id": 29,
+      "company_name": "Livetube",
+      "status": "Pending Approval",
+      "info": "In eleifend quam a odio. In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.",
+      "performance": "Moderate",
+      "key_contacts": {
+        "first_contact": "Somerset",
+        "second_contact": "Wynne"
+      },
+      "website": "http://furl.net",
+      "address": {
+        "street": "06228 Columbus Terrace",
+        "city": "Peoria",
+        "state": "Illinois",
+        "zip": "61640"
+      },
+      "company_phone": "309-326-5277",
+      "revenue": {
+        "2016 q1": "$1423562.38",
+        "2016 q2": "$14313386.84",
+        "2016 q3": "$84045654.27",
+        "2016 q4": "$88075534.99",
+        "2017 q1": "$55688195.11",
+        "2017 q2": "$42499563.09",
+        "2017 q3": "$66327851.00",
+        "2017 q4": "$69789762.28",
+        "2018 q1": "$22153985.19",
+        "2018 q2": "$51315847.54",
+        "2018 q3": "$99111742.49"
+      },
+      "ebitda": {
+        "2016 q1": "$1229133.09",
+        "2016 q2": "$1830973.07",
+        "2016 q3": "$1154085.86",
+        "2016 q4": "$247624.48",
+        "2017 q1": "$643562.31",
+        "2017 q2": "$1407872.45",
+        "2017 q3": "$1226174.80",
+        "2017 q4": "$723932.59",
+        "2018 q1": "$328988.85",
+        "2018 q2": "$465065.22",
+        "2018 q3": "$1659978.74"
+      }
+    },
+    {
+      "id": 30,
+      "company_name": "Einti",
+      "status": "Pending Approval",
+      "info": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum.",
+      "performance": "Moderate",
+      "key_contacts": {
+        "first_contact": "Sebastian",
+        "second_contact": "Jenda"
+      },
+      "website": "http://amazon.co.uk",
+      "address": {
+        "street": "39471 Nova Circle",
+        "city": "Mobile",
+        "state": "Alabama",
+        "zip": "36610"
+      },
+      "company_phone": "251-621-5493",
+      "revenue": {
+        "2016 q1": "$45372749.37",
+        "2016 q2": "$48219494.07",
+        "2016 q3": "$11984902.79",
+        "2016 q4": "$11717007.15",
+        "2017 q1": "$93733727.60",
+        "2017 q2": "$5317248.99",
+        "2017 q3": "$69417036.82",
+        "2017 q4": "$8729554.19",
+        "2018 q1": "$18090992.57",
+        "2018 q2": "$7784455.94",
+        "2018 q3": "$18151798.53"
+      },
+      "ebitda": {
+        "2016 q1": "$112110.03",
+        "2016 q2": "$1089906.45",
+        "2016 q3": "$269569.66",
+        "2016 q4": "$1469136.62",
+        "2017 q1": "$1311572.18",
+        "2017 q2": "$1661384.90",
+        "2017 q3": "$1800524.12",
+        "2017 q4": "$596387.28",
+        "2018 q1": "$108330.34",
+        "2018 q2": "$1129324.83",
+        "2018 q3": "$762610.45"
+      }
+    },
+    {
+      "id": 31,
+      "company_name": "Gigazoom",
+      "status": "Pending Approval",
+      "info": "Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl. Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum. In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor.",
+      "performance": "Bad",
+      "key_contacts": {
+        "first_contact": "Don",
+        "second_contact": "Tani"
+      },
+      "website": "https://cpanel.net",
+      "address": {
+        "street": "70761 Ramsey Lane",
+        "city": "Orlando",
+        "state": "Florida",
+        "zip": "32813"
+      },
+      "company_phone": "321-299-8672",
+      "revenue": {
+        "2016 q1": "$47558287.63",
+        "2016 q2": "$73736702.52",
+        "2016 q3": "$75920553.62",
+        "2016 q4": "$26679226.21",
+        "2017 q1": "$66039070.04",
+        "2017 q2": "$25674014.50",
+        "2017 q3": "$68967205.91",
+        "2017 q4": "$81406367.53",
+        "2018 q1": "$43446054.70",
+        "2018 q2": "$17565524.76",
+        "2018 q3": "$89742956.19"
+      },
+      "ebitda": {
+        "2016 q1": "$1605153.60",
+        "2016 q2": "$1336097.07",
+        "2016 q3": "$691629.43",
+        "2016 q4": "$1663722.93",
+        "2017 q1": "$849356.96",
+        "2017 q2": "$1787630.11",
+        "2017 q3": "$1548109.53",
+        "2017 q4": "$1411895.46",
+        "2018 q1": "$1872445.64",
+        "2018 q2": "$380335.03",
+        "2018 q3": "$1699906.72"
+      }
+    },
+    {
+      "id": 32,
+      "company_name": "Tagcat",
+      "status": "Pending Approval",
+      "info": "Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
+      "performance": "Moderate",
+      "key_contacts": {
+        "first_contact": "Kain",
+        "second_contact": "Fran"
+      },
+      "website": "https://123-reg.co.uk",
+      "address": {
+        "street": "1 Sycamore Street",
+        "city": "Sarasota",
+        "state": "Florida",
+        "zip": "34233"
+      },
+      "company_phone": "941-885-1059",
+      "revenue": {
+        "2016 q1": "$68064938.31",
+        "2016 q2": "$45438765.74",
+        "2016 q3": "$58548872.63",
+        "2016 q4": "$61866784.03",
+        "2017 q1": "$59174286.95",
+        "2017 q2": "$33075711.10",
+        "2017 q3": "$32793892.89",
+        "2017 q4": "$20848510.83",
+        "2018 q1": "$76952537.16",
+        "2018 q2": "$15764718.59",
+        "2018 q3": "$61753158.90"
+      },
+      "ebitda": {
+        "2016 q1": "$947463.53",
+        "2016 q2": "$1593194.92",
+        "2016 q3": "$1666868.41",
+        "2016 q4": "$681373.87",
+        "2017 q1": "$726314.54",
+        "2017 q2": "$1419570.03",
+        "2017 q3": "$431556.77",
+        "2017 q4": "$131361.23",
+        "2018 q1": "$1244366.11",
+        "2018 q2": "$365432.34",
+        "2018 q3": "$1171672.60"
+      }
+    },
+    {
+      "id": 33,
+      "company_name": "Youfeed",
+      "status": "Pending Approval",
+      "info": "Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien.",
+      "performance": "Moderate",
+      "key_contacts": {
+        "first_contact": "Wally",
+        "second_contact": "Krystyna"
+      },
+      "website": "http://whitehouse.gov",
+      "address": {
+        "street": "4594 Charing Cross Hill",
+        "city": "Miami",
+        "state": "Florida",
+        "zip": "33185"
+      },
+      "company_phone": "305-640-0492",
+      "revenue": {
+        "2016 q1": "$36520093.92",
+        "2016 q2": "$55434269.66",
+        "2016 q3": "$25820760.30",
+        "2016 q4": "$57494696.65",
+        "2017 q1": "$6400914.34",
+        "2017 q2": "$60237256.16",
+        "2017 q3": "$82433588.99",
+        "2017 q4": "$61289885.22",
+        "2018 q1": "$61485050.16",
+        "2018 q2": "$60832953.72",
+        "2018 q3": "$20650416.08"
+      },
+      "ebitda": {
+        "2016 q1": "$748059.09",
+        "2016 q2": "$637325.02",
+        "2016 q3": "$1920216.50",
+        "2016 q4": "$740752.30",
+        "2017 q1": "$416285.35",
+        "2017 q2": "$1625895.45",
+        "2017 q3": "$937620.45",
+        "2017 q4": "$346534.30",
+        "2018 q1": "$1241566.17",
+        "2018 q2": "$698907.86",
+        "2018 q3": "$1330888.25"
+      }
+    },
+    {
+      "id": 34,
+      "company_name": "Linktype",
+      "status": "Pending Approval",
+      "info": "Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi. Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
+      "performance": "Bad",
+      "key_contacts": {
+        "first_contact": "Lockwood",
+        "second_contact": "Collete"
+      },
+      "website": "https://gnu.org",
+      "address": {
+        "street": "4582 Homewood Pass",
+        "city": "Cincinnati",
+        "state": "Ohio",
+        "zip": "45203"
+      },
+      "company_phone": "513-550-5475",
+      "revenue": {
+        "2016 q1": "$8024503.76",
+        "2016 q2": "$32849202.59",
+        "2016 q3": "$28055262.03",
+        "2016 q4": "$87482767.21",
+        "2017 q1": "$97523062.92",
+        "2017 q2": "$31853346.36",
+        "2017 q3": "$52256321.80",
+        "2017 q4": "$8027677.02",
+        "2018 q1": "$74888293.86",
+        "2018 q2": "$77639487.76",
+        "2018 q3": "$86417260.65"
+      },
+      "ebitda": {
+        "2016 q1": "$653907.13",
+        "2016 q2": "$1965372.18",
+        "2016 q3": "$478966.91",
+        "2016 q4": "$1602053.80",
+        "2017 q1": "$1293962.85",
+        "2017 q2": "$1467344.67",
+        "2017 q3": "$1367348.05",
+        "2017 q4": "$1970276.42",
+        "2018 q1": "$1433438.05",
+        "2018 q2": "$959788.39",
+        "2018 q3": "$361056.41"
+      }
+    },
+    {
+      "id": 35,
+      "company_name": "Quimba",
+      "status": "Pending Approval",
+      "info": "Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum. In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor. Duis mattis egestas metus. Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
+      "performance": "Bad",
+      "key_contacts": {
+        "first_contact": "Armando",
+        "second_contact": "Roxy"
+      },
+      "website": "http://wikispaces.com",
+      "address": {
+        "street": "0823 Thierer Alley",
+        "city": "Rochester",
+        "state": "New York",
+        "zip": "14614"
+      },
+      "company_phone": "315-673-8774",
+      "revenue": {
+        "2016 q1": "$15719889.89",
+        "2016 q2": "$51984363.21",
+        "2016 q3": "$65896827.27",
+        "2016 q4": "$87831949.46",
+        "2017 q1": "$72817664.94",
+        "2017 q2": "$28049724.69",
+        "2017 q3": "$9242074.88",
+        "2017 q4": "$2061996.02",
+        "2018 q1": "$5243817.97",
+        "2018 q2": "$15126386.72",
+        "2018 q3": "$73678216.37"
+      },
+      "ebitda": {
+        "2016 q1": "$1317105.47",
+        "2016 q2": "$1393912.22",
+        "2016 q3": "$282702.00",
+        "2016 q4": "$1875796.62",
+        "2017 q1": "$1961980.37",
+        "2017 q2": "$1051413.14",
+        "2017 q3": "$1302776.19",
+        "2017 q4": "$450030.01",
+        "2018 q1": "$1574196.17",
+        "2018 q2": "$1125495.77",
+        "2018 q3": "$341031.45"
+      }
+    },
+    {
+      "id": 36,
+      "company_name": "Babbleopia",
+      "status": "Pending Approval",
+      "info": "Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio.",
+      "performance": "Moderate",
+      "key_contacts": {
+        "first_contact": "Fredek",
+        "second_contact": "Danita"
+      },
+      "website": "https://examiner.com",
+      "address": {
+        "street": "14730 Melvin Place",
+        "city": "Portsmouth",
+        "state": "Virginia",
+        "zip": "23705"
+      },
+      "company_phone": "757-150-8328",
+      "revenue": {
+        "2016 q1": "$49064366.29",
+        "2016 q2": "$6188429.46",
+        "2016 q3": "$42140877.95",
+        "2016 q4": "$1887797.81",
+        "2017 q1": "$59865263.46",
+        "2017 q2": "$49585283.45",
+        "2017 q3": "$95106663.81",
+        "2017 q4": "$49303896.98",
+        "2018 q1": "$63779597.55",
+        "2018 q2": "$98811680.84",
+        "2018 q3": "$12212624.36"
+      },
+      "ebitda": {
+        "2016 q1": "$1501759.98",
+        "2016 q2": "$1840115.51",
+        "2016 q3": "$1818647.73",
+        "2016 q4": "$1325499.49",
+        "2017 q1": "$262325.57",
+        "2017 q2": "$1427925.70",
+        "2017 q3": "$762197.83",
+        "2017 q4": "$1822437.02",
+        "2018 q1": "$1109383.35",
+        "2018 q2": "$166247.52",
+        "2018 q3": "$902558.76"
+      }
+    },
+    {
+      "id": 37,
+      "company_name": "Babblestorm",
+      "status": "Approved",
+      "info": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante.",
+      "performance": "Bad",
+      "key_contacts": {
+        "first_contact": "Sol",
+        "second_contact": "Rorie"
+      },
+      "website": "https://ibm.com",
+      "address": {
+        "street": "61461 Gerald Court",
+        "city": "Boulder",
+        "state": "Colorado",
+        "zip": "80328"
+      },
+      "company_phone": "303-641-9104",
+      "revenue": {
+        "2016 q1": "$40272357.60",
+        "2016 q2": "$60544825.56",
+        "2016 q3": "$95756505.53",
+        "2016 q4": "$49289645.37",
+        "2017 q1": "$30076346.49",
+        "2017 q2": "$25449771.65",
+        "2017 q3": "$92863747.72",
+        "2017 q4": "$91796826.65",
+        "2018 q1": "$75708648.83",
+        "2018 q2": "$81365606.37",
+        "2018 q3": "$27431304.70"
+      },
+      "ebitda": {
+        "2016 q1": "$1062094.62",
+        "2016 q2": "$974927.84",
+        "2016 q3": "$416974.02",
+        "2016 q4": "$834549.96",
+        "2017 q1": "$1881530.51",
+        "2017 q2": "$1756721.13",
+        "2017 q3": "$1142590.16",
+        "2017 q4": "$1817538.16",
+        "2018 q1": "$1809412.70",
+        "2018 q2": "$1601012.01",
+        "2018 q3": "$1479033.66"
+      }
+    },
+    {
+      "id": 38,
+      "company_name": "Quire",
+      "status": "Approved",
+      "info": "Morbi quis tortor id nulla ultrices aliquet.",
+      "performance": "Excellent",
+      "key_contacts": {
+        "first_contact": "Lennie",
+        "second_contact": "Raf"
+      },
+      "website": "https://umn.edu",
+      "address": {
+        "street": "086 Dunning Plaza",
+        "city": "Akron",
+        "state": "Ohio",
+        "zip": "44393"
+      },
+      "company_phone": "234-755-2782",
+      "revenue": {
+        "2016 q1": "$99539763.87",
+        "2016 q2": "$61339528.42",
+        "2016 q3": "$5850211.50",
+        "2016 q4": "$32070609.24",
+        "2017 q1": "$16332421.64",
+        "2017 q2": "$34258536.33",
+        "2017 q3": "$58837929.98",
+        "2017 q4": "$38791879.58",
+        "2018 q1": "$22905149.68",
+        "2018 q2": "$28868800.51",
+        "2018 q3": "$17448107.57"
+      },
+      "ebitda": {
+        "2016 q1": "$1630693.29",
+        "2016 q2": "$880582.88",
+        "2016 q3": "$733921.23",
+        "2016 q4": "$1769352.33",
+        "2017 q1": "$556788.76",
+        "2017 q2": "$265971.72",
+        "2017 q3": "$1477926.75",
+        "2017 q4": "$440271.73",
+        "2018 q1": "$960147.29",
+        "2018 q2": "$1069216.63",
+        "2018 q3": "$1217115.72"
+      }
+    },
+    {
+      "id": 39,
+      "company_name": "Oloo",
+      "status": "Approved",
+      "info": "In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum.",
+      "performance": "Excellent",
+      "key_contacts": {
+        "first_contact": "Felipe",
+        "second_contact": "Aida"
+      },
+      "website": "http://simplemachines.org",
+      "address": {
+        "street": "57726 Forest Run Parkway",
+        "city": "Vancouver",
+        "state": "Washington",
+        "zip": "98687"
+      },
+      "company_phone": "360-852-6575",
+      "revenue": {
+        "2016 q1": "$18444516.10",
+        "2016 q2": "$79406621.99",
+        "2016 q3": "$81112735.77",
+        "2016 q4": "$13111497.16",
+        "2017 q1": "$13000273.14",
+        "2017 q2": "$112815.24",
+        "2017 q3": "$79491482.35",
+        "2017 q4": "$48339306.58",
+        "2018 q1": "$95652809.21",
+        "2018 q2": "$62298873.25",
+        "2018 q3": "$22694713.49"
+      },
+      "ebitda": {
+        "2016 q1": "$567604.32",
+        "2016 q2": "$1583621.51",
+        "2016 q3": "$1467598.78",
+        "2016 q4": "$952914.93",
+        "2017 q1": "$1123347.49",
+        "2017 q2": "$1838035.98",
+        "2017 q3": "$343881.80",
+        "2017 q4": "$1965543.90",
+        "2018 q1": "$1668461.43",
+        "2018 q2": "$387093.87",
+        "2018 q3": "$624129.36"
+      }
+    },
+    {
+      "id": 40,
+      "company_name": "Jamia",
+      "status": "Approved",
+      "info": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",
+      "performance": "Moderate",
+      "key_contacts": {
+        "first_contact": "Zacharia",
+        "second_contact": "Ermentrude"
+      },
+      "website": "http://stanford.edu",
+      "address": {
+        "street": "487 Petterle Place",
+        "city": "Albany",
+        "state": "New York",
+        "zip": "12205"
+      },
+      "company_phone": "518-483-7045",
+      "revenue": {
+        "2016 q1": "$39089632.81",
+        "2016 q2": "$19751642.88",
+        "2016 q3": "$64186428.05",
+        "2016 q4": "$94162390.23",
+        "2017 q1": "$18904674.92",
+        "2017 q2": "$22299488.18",
+        "2017 q3": "$36222337.05",
+        "2017 q4": "$69302958.26",
+        "2018 q1": "$5983796.46",
+        "2018 q2": "$64828655.16",
+        "2018 q3": "$74111536.60"
+      },
+      "ebitda": {
+        "2016 q1": "$1308948.61",
+        "2016 q2": "$1166007.32",
+        "2016 q3": "$218968.91",
+        "2016 q4": "$148628.23",
+        "2017 q1": "$769817.09",
+        "2017 q2": "$1928333.85",
+        "2017 q3": "$503238.62",
+        "2017 q4": "$477808.08",
+        "2018 q1": "$1676499.25",
+        "2018 q2": "$1551515.55",
+        "2018 q3": "$1987456.08"
+      }
+    },
+    {
+      "id": 41,
+      "company_name": "Chatterpoint",
+      "status": "Approved",
+      "info": "Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti.",
+      "performance": "Excellent",
+      "key_contacts": {
+        "first_contact": "Jameson",
+        "second_contact": "Mechelle"
+      },
+      "website": "https://samsung.com",
+      "address": {
+        "street": "53 Mcguire Court",
+        "city": "Dayton",
+        "state": "Ohio",
+        "zip": "45432"
+      },
+      "company_phone": "937-561-4801",
+      "revenue": {
+        "2016 q1": "$6546940.26",
+        "2016 q2": "$85161236.80",
+        "2016 q3": "$67709665.67",
+        "2016 q4": "$38745482.36",
+        "2017 q1": "$43710576.66",
+        "2017 q2": "$87625197.82",
+        "2017 q3": "$98805154.37",
+        "2017 q4": "$52439638.68",
+        "2018 q1": "$61844908.90",
+        "2018 q2": "$78279478.85",
+        "2018 q3": "$19133396.27"
+      },
+      "ebitda": {
+        "2016 q1": "$1375947.11",
+        "2016 q2": "$1932995.56",
+        "2016 q3": "$1224841.79",
+        "2016 q4": "$588766.56",
+        "2017 q1": "$494061.52",
+        "2017 q2": "$499676.54",
+        "2017 q3": "$492060.96",
+        "2017 q4": "$948810.01",
+        "2018 q1": "$1787506.61",
+        "2018 q2": "$1573565.48",
+        "2018 q3": "$285648.65"
+      }
+    },
+    {
+      "id": 42,
+      "company_name": "Tagfeed",
+      "status": "Pending Approval",
+      "info": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",
+      "performance": "Excellent",
+      "key_contacts": {
+        "first_contact": "Brien",
+        "second_contact": "Doro"
+      },
+      "website": "https://nsw.gov.au",
+      "address": {
+        "street": "369 Stone Corner Parkway",
+        "city": "Tucson",
+        "state": "Arizona",
+        "zip": "85710"
+      },
+      "company_phone": "520-602-6953",
+      "revenue": {
+        "2016 q1": "$72761482.70",
+        "2016 q2": "$29441781.85",
+        "2016 q3": "$38605790.70",
+        "2016 q4": "$32513705.09",
+        "2017 q1": "$53932552.56",
+        "2017 q2": "$58500832.47",
+        "2017 q3": "$51668914.87",
+        "2017 q4": "$95187643.43",
+        "2018 q1": "$10091876.15",
+        "2018 q2": "$75071521.21",
+        "2018 q3": "$24537783.63"
+      },
+      "ebitda": {
+        "2016 q1": "$1202376.79",
+        "2016 q2": "$674519.99",
+        "2016 q3": "$1752563.10",
+        "2016 q4": "$582300.36",
+        "2017 q1": "$320206.72",
+        "2017 q2": "$553353.76",
+        "2017 q3": "$336445.06",
+        "2017 q4": "$1621949.30",
+        "2018 q1": "$1571502.83",
+        "2018 q2": "$990509.97",
+        "2018 q3": "$1822995.59"
+      }
+    },
+    {
+      "id": 43,
+      "company_name": "Yabox",
+      "status": "Pending Approval",
+      "info": "Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
+      "performance": "Moderate",
+      "key_contacts": {
+        "first_contact": "Phil",
+        "second_contact": "Hailee"
+      },
+      "website": "https://ask.com",
+      "address": {
+        "street": "38516 New Castle Parkway",
+        "city": "Birmingham",
+        "state": "Alabama",
+        "zip": "35295"
+      },
+      "company_phone": "205-415-0149",
+      "revenue": {
+        "2016 q1": "$41368739.28",
+        "2016 q2": "$50486019.71",
+        "2016 q3": "$5109713.92",
+        "2016 q4": "$21142722.76",
+        "2017 q1": "$55761302.71",
+        "2017 q2": "$81041056.82",
+        "2017 q3": "$51721177.38",
+        "2017 q4": "$46066042.34",
+        "2018 q1": "$3584288.42",
+        "2018 q2": "$82280760.10",
+        "2018 q3": "$24994389.27"
+      },
+      "ebitda": {
+        "2016 q1": "$1438315.96",
+        "2016 q2": "$1677547.71",
+        "2016 q3": "$1340483.18",
+        "2016 q4": "$127739.30",
+        "2017 q1": "$704827.21",
+        "2017 q2": "$1787280.85",
+        "2017 q3": "$911960.35",
+        "2017 q4": "$956434.15",
+        "2018 q1": "$1856422.05",
+        "2018 q2": "$1553576.93",
+        "2018 q3": "$1659100.69"
+      }
+    },
+    {
+      "id": 44,
+      "company_name": "Yotz",
+      "status": "Pending Approval",
+      "info": "Nulla facilisi. Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
+      "performance": "Moderate",
+      "key_contacts": {
+        "first_contact": "Jedd",
+        "second_contact": "Arlena"
+      },
+      "website": "http://geocities.jp",
+      "address": {
+        "street": "29 Emmet Hill",
+        "city": "Houston",
+        "state": "Texas",
+        "zip": "77020"
+      },
+      "company_phone": "713-974-5130",
+      "revenue": {
+        "2016 q1": "$86012627.35",
+        "2016 q2": "$33924241.15",
+        "2016 q3": "$726309.01",
+        "2016 q4": "$28471214.72",
+        "2017 q1": "$77362262.98",
+        "2017 q2": "$24268984.91",
+        "2017 q3": "$70027158.95",
+        "2017 q4": "$18767854.56",
+        "2018 q1": "$84968884.96",
+        "2018 q2": "$39337849.33",
+        "2018 q3": "$59967124.24"
+      },
+      "ebitda": {
+        "2016 q1": "$1650356.99",
+        "2016 q2": "$845845.55",
+        "2016 q3": "$1221524.85",
+        "2016 q4": "$882549.43",
+        "2017 q1": "$617200.32",
+        "2017 q2": "$560087.42",
+        "2017 q3": "$565394.43",
+        "2017 q4": "$1698545.99",
+        "2018 q1": "$1943305.00",
+        "2018 q2": "$370402.47",
+        "2018 q3": "$1515245.33"
+      }
+    },
+    {
+      "id": 45,
+      "company_name": "Cogilith",
+      "status": "Pending Approval",
+      "info": "Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim.",
+      "performance": "Moderate",
+      "key_contacts": {
+        "first_contact": "Woodrow",
+        "second_contact": "Lauralee"
+      },
+      "website": "https://nba.com",
+      "address": {
+        "street": "8 Mifflin Place",
+        "city": "Springfield",
+        "state": "Ohio",
+        "zip": "45505"
+      },
+      "company_phone": "937-245-2394",
+      "revenue": {
+        "2016 q1": "$7994264.11",
+        "2016 q2": "$34887355.92",
+        "2016 q3": "$78299849.80",
+        "2016 q4": "$31235021.46",
+        "2017 q1": "$4332815.10",
+        "2017 q2": "$35300859.38",
+        "2017 q3": "$14544952.90",
+        "2017 q4": "$17395769.60",
+        "2018 q1": "$37514509.70",
+        "2018 q2": "$62134593.84",
+        "2018 q3": "$86197402.12"
+      },
+      "ebitda": {
+        "2016 q1": "$601750.91",
+        "2016 q2": "$583494.18",
+        "2016 q3": "$834690.45",
+        "2016 q4": "$1527616.17",
+        "2017 q1": "$1566133.35",
+        "2017 q2": "$1221682.84",
+        "2017 q3": "$1931582.71",
+        "2017 q4": "$780439.94",
+        "2018 q1": "$439216.74",
+        "2018 q2": "$1802761.85",
+        "2018 q3": "$846613.26"
+      }
+    },
+    {
+      "id": 46,
+      "company_name": "Yakitri",
+      "status": "Pending Approval",
+      "info": "Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl. Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum. In hac habitasse platea dictumst.",
+      "performance": "Moderate",
+      "key_contacts": {
+        "first_contact": "Keefer",
+        "second_contact": "Dorette"
+      },
+      "website": "http://statcounter.com",
+      "address": {
+        "street": "31713 New Castle Parkway",
+        "city": "Boynton Beach",
+        "state": "Florida",
+        "zip": "33436"
+      },
+      "company_phone": "561-287-3650",
+      "revenue": {
+        "2016 q1": "$53269319.59",
+        "2016 q2": "$14530213.33",
+        "2016 q3": "$34480962.91",
+        "2016 q4": "$40630424.01",
+        "2017 q1": "$99907175.36",
+        "2017 q2": "$5025219.53",
+        "2017 q3": "$85535774.73",
+        "2017 q4": "$33050947.18",
+        "2018 q1": "$25482192.69",
+        "2018 q2": "$51087225.00",
+        "2018 q3": "$26632910.22"
+      },
+      "ebitda": {
+        "2016 q1": "$1731248.32",
+        "2016 q2": "$943527.45",
+        "2016 q3": "$1714618.76",
+        "2016 q4": "$1650926.37",
+        "2017 q1": "$1742455.48",
+        "2017 q2": "$791423.07",
+        "2017 q3": "$1432060.56",
+        "2017 q4": "$806602.45",
+        "2018 q1": "$571614.77",
+        "2018 q2": "$226050.98",
+        "2018 q3": "$1401645.86"
+      }
+    },
+    {
+      "id": 47,
+      "company_name": "Eimbee",
+      "status": "Pending Approval",
+      "info": "In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl. Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum. In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor. Duis mattis egestas metus. Aenean fermentum. Donec ut mauris eget massa tempor convallis.",
+      "performance": "Moderate",
+      "key_contacts": {
+        "first_contact": "Theobald",
+        "second_contact": "Christalle"
+      },
+      "website": "http://google.com.hk",
+      "address": {
+        "street": "6 Brown Hill",
+        "city": "Miami",
+        "state": "Florida",
+        "zip": "33164"
+      },
+      "company_phone": "786-247-2482",
+      "revenue": {
+        "2016 q1": "$71959550.94",
+        "2016 q2": "$79157457.63",
+        "2016 q3": "$6745349.88",
+        "2016 q4": "$16300963.98",
+        "2017 q1": "$92429718.43",
+        "2017 q2": "$61906882.74",
+        "2017 q3": "$32040696.91",
+        "2017 q4": "$81302787.86",
+        "2018 q1": "$4932566.87",
+        "2018 q2": "$76352416.39",
+        "2018 q3": "$52074584.50"
+      },
+      "ebitda": {
+        "2016 q1": "$1477810.56",
+        "2016 q2": "$822300.63",
+        "2016 q3": "$324926.38",
+        "2016 q4": "$1687712.77",
+        "2017 q1": "$487810.99",
+        "2017 q2": "$888090.28",
+        "2017 q3": "$180859.30",
+        "2017 q4": "$1819102.77",
+        "2018 q1": "$935169.18",
+        "2018 q2": "$1833481.81",
+        "2018 q3": "$1488349.83"
+      }
+    },
+    {
+      "id": 48,
+      "company_name": "Ooba",
+      "status": "Pending Approval",
+      "info": "Vestibulum ac est lacinia nisi venenatis tristique.",
+      "performance": "Moderate",
+      "key_contacts": {
+        "first_contact": "Neill",
+        "second_contact": "Delora"
+      },
+      "website": "http://amazon.co.jp",
+      "address": {
+        "street": "902 Bobwhite Terrace",
+        "city": "Seattle",
+        "state": "Washington",
+        "zip": "98133"
+      },
+      "company_phone": "206-574-1882",
+      "revenue": {
+        "2016 q1": "$47952436.38",
+        "2016 q2": "$69126904.05",
+        "2016 q3": "$10546895.84",
+        "2016 q4": "$3132805.06",
+        "2017 q1": "$4133663.40",
+        "2017 q2": "$94140840.32",
+        "2017 q3": "$81324727.28",
+        "2017 q4": "$33960084.69",
+        "2018 q1": "$58126595.09",
+        "2018 q2": "$26618306.72",
+        "2018 q3": "$48319245.09"
+      },
+      "ebitda": {
+        "2016 q1": "$1051030.08",
+        "2016 q2": "$892634.43",
+        "2016 q3": "$1866079.25",
+        "2016 q4": "$308877.38",
+        "2017 q1": "$235034.74",
+        "2017 q2": "$946993.43",
+        "2017 q3": "$1846650.10",
+        "2017 q4": "$1950304.47",
+        "2018 q1": "$451350.12",
+        "2018 q2": "$297870.81",
+        "2018 q3": "$1123160.16"
+      }
+    },
+    {
+      "id": 49,
+      "company_name": "Wikizz",
+      "status": "Pending Approval",
+      "info": "In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl. Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",
+      "performance": "Moderate",
+      "key_contacts": {
+        "first_contact": "Daryle",
+        "second_contact": "Zonnya"
+      },
+      "website": "https://google.it",
+      "address": {
+        "street": "90 Elgar Parkway",
+        "city": "Orlando",
+        "state": "Florida",
+        "zip": "32868"
+      },
+      "company_phone": "407-477-7083",
+      "revenue": {
+        "2016 q1": "$71400981.33",
+        "2016 q2": "$55246253.30",
+        "2016 q3": "$29754427.98",
+        "2016 q4": "$49265532.10",
+        "2017 q1": "$46437776.22",
+        "2017 q2": "$13510033.90",
+        "2017 q3": "$61104350.13",
+        "2017 q4": "$16061555.04",
+        "2018 q1": "$43080271.70",
+        "2018 q2": "$6211005.35",
+        "2018 q3": "$79233887.54"
+      },
+      "ebitda": {
+        "2016 q1": "$1016865.25",
+        "2016 q2": "$127827.31",
+        "2016 q3": "$1248833.72",
+        "2016 q4": "$1232400.12",
+        "2017 q1": "$440726.89",
+        "2017 q2": "$165783.69",
+        "2017 q3": "$296303.50",
+        "2017 q4": "$1316797.01",
+        "2018 q1": "$531653.02",
+        "2018 q2": "$498988.35",
+        "2018 q3": "$1132769.11"
+      }
+    },
+    {
+      "id": 50,
+      "company_name": "Oba",
+      "status": "Pending Approval",
+      "info": "Pellentesque ultrices mattis odio. Donec vitae nisi.",
+      "performance": "Moderate",
+      "key_contacts": {
+        "first_contact": "Dene",
+        "second_contact": "Kitti"
+      },
+      "website": "http://privacy.gov.au",
+      "address": {
+        "street": "02 Washington Alley",
+        "city": "Newton",
+        "state": "Massachusetts",
+        "zip": "02162"
+      },
+      "company_phone": "508-245-6179",
+      "revenue": {
+        "2016 q1": "$58592499.10",
+        "2016 q2": "$71662071.20",
+        "2016 q3": "$18401349.91",
+        "2016 q4": "$11873771.28",
+        "2017 q1": "$95064859.28",
+        "2017 q2": "$42667702.86",
+        "2017 q3": "$82144957.42",
+        "2017 q4": "$25081015.83",
+        "2018 q1": "$6090528.77",
+        "2018 q2": "$83733932.10",
+        "2018 q3": "$34054459.37"
+      },
+      "ebitda": {
+        "2016 q1": "$698480.09",
+        "2016 q2": "$895986.18",
+        "2016 q3": "$477898.63",
+        "2016 q4": "$822296.96",
+        "2017 q1": "$673721.49",
+        "2017 q2": "$1171150.98",
+        "2017 q3": "$257280.20",
+        "2017 q4": "$465990.86",
+        "2018 q1": "$1564179.41",
+        "2018 q2": "$1092951.77",
+        "2018 q3": "$531438.21"
+      }
+    }
+  ]
+}
